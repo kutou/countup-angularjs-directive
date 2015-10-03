@@ -21,6 +21,6 @@
     "tests"
   ],
   "dependencies": {
-    "countUp.js": "~1.5.3"
+    "countupjs": "https://github.com/kutou/countUp.js/archive/master.tar.gz"
   }
 }
